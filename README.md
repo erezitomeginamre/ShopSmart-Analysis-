@@ -103,7 +103,7 @@ Home, Beauty, Electronics hold >70% of inventory value.
 **Erezitome Ginamre**
 Data Analysis shopSmart AnalystLab
 Lagos, Nigeria
-[LinkedIn] | [Email]
+https://www.linkedin.com/in/erezitome-ginamre-b46162434?utm_source=share_via&utm_content=profile&utm_medium=member_android | [erezitomeginamre@gmail.com]
 
 ## 📄 License
 This project is for educational purposes - AnalystLab Assessment.
